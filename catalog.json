@@ -1,0 +1,15 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "PersonalSkillsCollection",
+  "entries": [
+    {"name":"Academic Research Skills","local_directory":"AutoAct/Skills/academic-research-skills","repository":"https://github.com/Imbad0202/academic-research-skills","owner":"Imbad0202","license":"NOASSERTION","summary":"Claude Code 学术研究全流程 skills：研究、写作、审阅、修订与定稿。"},
+    {"name":"arXiv Skills","local_directory":"AutoAct/Skills/arxiv-skills","repository":"https://github.com/ultimatile/arxiv-skills","owner":"ultimatile","license":"MIT","summary":"检索 arXiv 论文并将论文材料转为结构化 Markdown。"},
+    {"name":"Binance Skills Hub","local_directory":"AutoAct/Skills/binance-skills-hub","repository":"https://github.com/binance/binance-skills-hub","owner":"binance","license":"NOASSERTION","summary":"为 AI Agent 提供交易、Web3、链上数据、DeFi 和支付能力的 skills 市场。"},
+    {"name":"Brave Search Skills","local_directory":"AutoAct/Skills/brave-search-skills","repository":"https://github.com/brave/brave-search-skills","owner":"brave","license":"MIT","summary":"Brave Search API 的官方 Agent Skills。"},
+    {"name":"Claude Trading Skills","local_directory":"AutoAct/Skills/claude-trading-skills","repository":"https://github.com/agiprolabs/claude-trading-skills","owner":"agiprolabs","license":"MIT","summary":"交易、DeFi 和量化金融 Agent Skills。"},
+    {"name":"Garden Skills","local_directory":"AutoAct/Skills/garden-skills","repository":"https://github.com/ConardLi/garden-skills","owner":"ConardLi","license":"MIT","summary":"网页设计、视频演示、图像生成及知识库检索等通用 skills。"},
+    {"name":"Khazix Skills","local_directory":"AutoAct/Skills/khazix-skills","repository":"https://github.com/KKKKhazix/khazix-skills","owner":"KKKKhazix","license":"MIT","summary":"研究分析、写作、AI 资讯及项目知识整理等 Agent Skills。"},
+    {"name":"PPT Master","local_directory":"AutoAct/Skills/ppt-master","repository":"https://github.com/hugohe3/ppt-master","owner":"hugohe3","license":"MIT","summary":"生成原生可编辑 PPTX 的多角色 Agent 工作流。"},
+    {"name":"Anthropic Skills","local_directory":"AutoAct/Skills/skills","repository":"https://github.com/anthropics/skills","owner":"anthropics","license":"NOASSERTION","summary":"Agent Skills 的公开参考仓库、规范和模板。"}
+  ]
+}
